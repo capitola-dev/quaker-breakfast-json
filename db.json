@@ -1,0 +1,26 @@
+{
+  "ourBreakfast": {
+    "title": "1. Gebruikersvoorwaarden",
+    "text": "1. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Corporis blanditiis, molestias assumenda ab nihil minus cupiditate, veritatis fugiat illo debitis sint, animi quibusdam tempora quisquam velit cumque consectetur unde at."
+  },
+  "faq": {
+    "title": "2. Gebruikersvoorwaarden",
+    "text": "2. This data comes from the service. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Corporis blanditiis, molestias assumenda ab nihil minus cupiditate, veritatis fugiat illo debitis sint, animi quibusdam tempora quisquam velit cumque consectetur unde at."
+  },
+  "howBreakfastCheckWorks": {
+    "title": "3. Gebruikersvoorwaarden",
+    "text": "3. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Corporis blanditiis, molestias assumenda ab nihil minus cupiditate, veritatis fugiat illo debitis sint, animi quibusdam tempora quisquam velit cumque consectetur unde at."
+  },
+  "disclaimer": {
+    "title": "4. Disclaimer",
+    "text": "4. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Corporis blanditiis, molestias assumenda ab nihil minus cupiditate, veritatis fugiat illo debitis sint, animi quibusdam tempora quisquam velit cumque consectetur unde at."
+  },
+  "privacyStatement": {
+    "title": "5. Privacy Statement",
+    "text": "5. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Corporis blanditiis, molestias assumenda ab nihil minus cupiditate, veritatis fugiat illo debitis sint, animi quibusdam tempora quisquam velit cumque consectetur unde at."
+  },
+  "contact": {
+    "title": "6. Contact",
+    "text": "6. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Corporis blanditiis, molestias assumenda ab nihil minus cupiditate, veritatis fugiat illo debitis sint, animi quibusdam tempora quisquam velit cumque consectetur unde at."
+  }
+}
